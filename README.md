@@ -1,6 +1,16 @@
 # SHLC Peer Time & Mileage Tracker
 
-Build package for the Serenity Hills Life Center peer work-hours and mileage tracker, built on **Microsoft Lists + Power Automate** (Microsoft 365).
+Peer work-hours and mileage tracking for Serenity Hills Life Center. This repo holds three versions:
+
+| Version | Where | Status |
+|---|---|---|
+| **Phone app** (start/stop trips, supervisor approval, Excel backup) | `app/`, hosting steps in `docs/app-deployment.md` | Built and tested locally; not yet hosted |
+| Excel workbook (interim) | `excel/` | Ready to use |
+| Microsoft Lists + Power Automate design | `docs/`, `lists/` | Design only |
+
+Run the app locally: `cd app && npm ci && npm run dev`, then open http://localhost:3000. Run tests: `npm test`.
+
+The rest of this page describes the Microsoft Lists design.
 
 ## What's in this repo
 

@@ -1,0 +1,192 @@
+[
+ {
+  "name": "Serenity Hills Life Center",
+  "category": "SHLC Facility",
+  "address": "667 Stone Shannon Rd",
+  "city": "Wheeling",
+  "state": "WV",
+  "one_way_miles": null,
+  "verified": 0,
+  "is_home": 1
+ },
+ {
+  "name": "Northern Regional Jail",
+  "category": "Detention/Corrections",
+  "address": "112 Northern Regional Correctional Dr",
+  "city": "Moundsville",
+  "state": "WV",
+  "one_way_miles": null,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Jefferson County Sheriff / Jail",
+  "category": "Detention/Corrections",
+  "address": "16001 OH-7",
+  "city": "Steubenville",
+  "state": "OH",
+  "one_way_miles": null,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Belmont Correctional Institution",
+  "category": "Detention/Corrections",
+  "address": "68518 Bannock Uniontown Rd",
+  "city": "St. Clairsville",
+  "state": "OH",
+  "one_way_miles": 22.6,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Ohio County Circuit Court Clerk",
+  "category": "Court/Probation",
+  "address": "1500 Chapline St",
+  "city": "Wheeling",
+  "state": "WV",
+  "one_way_miles": 9.4,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Marshall County Courthouse",
+  "category": "Court/Probation",
+  "address": "600 7th St",
+  "city": "Moundsville",
+  "state": "WV",
+  "one_way_miles": 20.1,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Belmont County Court",
+  "category": "Court/Probation",
+  "address": "52160 National Rd E",
+  "city": "St. Clairsville",
+  "state": "OH",
+  "one_way_miles": 15.3,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Belmont County Clerk of Courts",
+  "category": "Court/Probation",
+  "address": "101 W Main St",
+  "city": "St. Clairsville",
+  "state": "OH",
+  "one_way_miles": 18.9,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Northwood Health Systems",
+  "category": "Treatment/Recovery",
+  "address": "111 19th St",
+  "city": "Wheeling",
+  "state": "WV",
+  "one_way_miles": 9.8,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Wheeling Comprehensive Treatment Center",
+  "category": "Treatment/Recovery",
+  "address": "40 Orrs Ln",
+  "city": "Triadelphia",
+  "state": "WV",
+  "one_way_miles": 18.9,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Miracles Happen",
+  "category": "Treatment/Recovery",
+  "address": "201 Edgington Ln",
+  "city": "Wheeling",
+  "state": "WV",
+  "one_way_miles": 10.8,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "The Unity Center (Ohio Valley Recovery)",
+  "category": "Treatment/Recovery",
+  "address": "4850 Eoff St",
+  "city": "Overbrook",
+  "state": "WV",
+  "one_way_miles": 12.4,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Eagle HealthWorks",
+  "category": "Treatment/Recovery",
+  "address": "300 Howard St",
+  "city": "Bridgeport",
+  "state": "OH",
+  "one_way_miles": 9.8,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Brilliant Treatment Services",
+  "category": "Treatment/Recovery",
+  "address": "1479 3rd St",
+  "city": "Brilliant",
+  "state": "OH",
+  "one_way_miles": 8.1,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "The Ohio Recovery Collective",
+  "category": "Treatment/Recovery",
+  "address": "4525 Sunset Blvd",
+  "city": "Steubenville",
+  "state": "OH",
+  "one_way_miles": 20.1,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Milton Jefferson Recovery",
+  "category": "Treatment/Recovery",
+  "address": "1852 Sinclair Ave",
+  "city": "Steubenville",
+  "state": "OH",
+  "one_way_miles": 19.1,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "WVU Medicine Wheeling Hospital",
+  "category": "Hospital/ER",
+  "address": "1 Medical Park Rd",
+  "city": "Wheeling",
+  "state": "WV",
+  "one_way_miles": 11.6,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "UPMC Trinity West",
+  "category": "Hospital/ER",
+  "address": "4000 Johnson Rd",
+  "city": "Steubenville",
+  "state": "OH",
+  "one_way_miles": 19.2,
+  "verified": 0,
+  "is_home": 0
+ },
+ {
+  "name": "Weirton Medical Center",
+  "category": "Hospital/ER",
+  "address": "601 Colliers Way",
+  "city": "Weirton",
+  "state": "WV",
+  "one_way_miles": 22.7,
+  "verified": 0,
+  "is_home": 0
+ }
+]
