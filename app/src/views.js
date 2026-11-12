@@ -15,10 +15,12 @@ function layout(title, user, body, notice) {
   </nav>` : '';
   return `<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#1f4e78"><link rel="manifest" href="/manifest.webmanifest">
-<link rel="apple-touch-icon" href="/icon.svg"><link rel="icon" href="/icon.svg">
-<title>${esc(title)} - SHLC Trips</title><link rel="stylesheet" href="/style.css"></head><body>
-<header><strong>SHLC Peer Trips</strong>${user ? `<span>${esc(user.name)}</span>` : ''}</header>${nav}
+<meta name="theme-color" content="#f9f8f6"><link rel="manifest" href="/manifest.webmanifest">
+<link rel="apple-touch-icon" href="/brand/icon-180.png"><link rel="icon" href="/brand/icon-192.png">
+<title>${esc(title)} - SHLC Peer Trips</title><link rel="stylesheet" href="/style.css"></head><body>
+<header><img class="emblem" src="/brand/emblem.png" alt="" width="480" height="254">
+<img class="wordmark" src="/brand/wordmark.png" alt="Serenity Hills Life Center" width="720" height="219">
+<p class="app">Peer Trips${user ? ` <span>&middot; ${esc(user.name)}</span>` : ''}</p></header>${nav}
 <main>${notice ? `<p class="notice">${esc(notice)}</p>` : ''}${body}</main></body></html>`;
 }
 
