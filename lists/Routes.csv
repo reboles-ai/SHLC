@@ -1,3 +1,19 @@
-Title,FromLocation,ToLocation,OneWayMiles,VerifiedBy,VerifiedDate
-LOC-001 <-> LOC-002,SHLC - Main Facility,[Hospital name],0.0,admin@example.org,2026-11-12
-LOC-001 <-> LOC-003,SHLC - Main Facility,[County courthouse],0.0,admin@example.org,2026-11-12
+Title,FromLocation,ToLocation,OneWayMiles,Verified,VerifiedBy,VerifiedDate,Notes
+LOC-001 <-> LOC-002,Serenity Hills Life Center,Northern Regional Jail,,No,,,No estimate available. Measure before go-live.
+LOC-001 <-> LOC-003,Serenity Hills Life Center,Jefferson County Sheriff / Jail,,No,,,No estimate available. Measure before go-live.
+LOC-001 <-> LOC-004,Serenity Hills Life Center,Belmont Correctional Institution,22.6,No,,,"Estimate only, range 21.6-23.7 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-005,Serenity Hills Life Center,Ohio County Circuit Court Clerk,9.4,No,,,"Estimate only, range 8.3-10.4 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-006,Serenity Hills Life Center,Marshall County Courthouse,20.1,No,,,"Estimate only, range 19.0-21.1 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-007,Serenity Hills Life Center,Belmont County Court,15.3,No,,,"Estimate only, range 14.3-16.4 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-008,Serenity Hills Life Center,Belmont County Clerk of Courts,18.9,No,,,"Estimate only, range 17.9-20.0 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-009,Serenity Hills Life Center,Northwood Health Systems,9.8,No,,,"Estimate only, range 8.7-10.8 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-010,Serenity Hills Life Center,Wheeling Comprehensive Treatment Center,18.9,No,,,"Estimate only, range 17.8-19.9 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-011,Serenity Hills Life Center,Miracles Happen,10.8,No,,,"Estimate only, range 9.0-12.7 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-012,Serenity Hills Life Center,The Unity Center (Ohio Valley Recovery),12.4,No,,,"Estimate only, range 11.3-13.4 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-013,Serenity Hills Life Center,Eagle HealthWorks,9.8,No,,,"Estimate only, range 8.7-10.8 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-014,Serenity Hills Life Center,Brilliant Treatment Services,8.1,No,,,"Estimate only, range 7.4-8.8 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-015,Serenity Hills Life Center,The Ohio Recovery Collective,20.1,No,,,"Estimate only, range 19.4-20.8 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-016,Serenity Hills Life Center,Milton Jefferson Recovery,19.1,No,,,"Estimate only, range 18.3-19.8 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-017,Serenity Hills Life Center,WVU Medicine Wheeling Hospital,11.6,No,,,"Estimate only, range 10.6-12.7 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-018,Serenity Hills Life Center,UPMC Trinity West,19.2,No,,,"Estimate only, range 18.5-19.9 mi. Measure from the SHLC driveway before go-live."
+LOC-001 <-> LOC-019,Serenity Hills Life Center,Weirton Medical Center,22.7,No,,,"Estimate only, range 22.0-23.4 mi. Measure from the SHLC driveway before go-live."

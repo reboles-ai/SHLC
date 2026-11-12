@@ -1,9 +1,21 @@
 Title,LocationID,Category,Address,City,State,Active
-SHLC - Main Facility,LOC-001,SHLC Facility,[Street address],[City],WV,Yes
-[Hospital name],LOC-002,Hospital/ER,[Street address],[City],WV,Yes
-[County courthouse],LOC-003,Court/Probation,[Street address],[City],WV,Yes
-[DHHR office],LOC-004,DHHR Office,[Street address],[City],WV,Yes
-[Pharmacy],LOC-005,Pharmacy,[Street address],[City],WV,Yes
-[Recovery meeting site],LOC-006,Recovery/Community Meeting,[Street address],[City],WV,Yes
-[Sober living house],LOC-007,Sober Living,[Street address],[City],WV,Yes
+Serenity Hills Life Center,LOC-001,SHLC Facility,667 Stone Shannon Rd,Wheeling,WV,Yes
+Northern Regional Jail,LOC-002,Detention/Corrections,112 Northern Regional Correctional Dr,Moundsville,WV,Yes
+Jefferson County Sheriff / Jail,LOC-003,Detention/Corrections,16001 OH-7,Steubenville,OH,Yes
+Belmont Correctional Institution,LOC-004,Detention/Corrections,68518 Bannock Uniontown Rd,St. Clairsville,OH,Yes
+Ohio County Circuit Court Clerk,LOC-005,Court/Probation,1500 Chapline St,Wheeling,WV,Yes
+Marshall County Courthouse,LOC-006,Court/Probation,600 7th St,Moundsville,WV,Yes
+Belmont County Court,LOC-007,Court/Probation,52160 National Rd E,St. Clairsville,OH,Yes
+Belmont County Clerk of Courts,LOC-008,Court/Probation,101 W Main St,St. Clairsville,OH,Yes
+Northwood Health Systems,LOC-009,Treatment/Recovery,111 19th St,Wheeling,WV,Yes
+Wheeling Comprehensive Treatment Center,LOC-010,Treatment/Recovery,40 Orrs Ln,Triadelphia,WV,Yes
+Miracles Happen,LOC-011,Treatment/Recovery,201 Edgington Ln,Wheeling,WV,Yes
+The Unity Center (Ohio Valley Recovery),LOC-012,Treatment/Recovery,4850 Eoff St,Overbrook,WV,Yes
+Eagle HealthWorks,LOC-013,Treatment/Recovery,300 Howard St,Bridgeport,OH,Yes
+Brilliant Treatment Services,LOC-014,Treatment/Recovery,1479 3rd St,Brilliant,OH,Yes
+The Ohio Recovery Collective,LOC-015,Treatment/Recovery,4525 Sunset Blvd,Steubenville,OH,Yes
+Milton Jefferson Recovery,LOC-016,Treatment/Recovery,1852 Sinclair Ave,Steubenville,OH,Yes
+WVU Medicine Wheeling Hospital,LOC-017,Hospital/ER,1 Medical Park Rd,Wheeling,WV,Yes
+UPMC Trinity West,LOC-018,Hospital/ER,4000 Johnson Rd,Steubenville,OH,Yes
+Weirton Medical Center,LOC-019,Hospital/ER,601 Colliers Way,Weirton,WV,Yes
 Other (not listed),LOC-999,Other,Enter odometer and submit a Location Request,N/A,WV,Yes

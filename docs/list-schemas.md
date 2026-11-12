@@ -55,7 +55,7 @@ One row per setting. Flows read values from here.
 |---|---|---|---|
 | Title | Single line | Yes | Display name, e.g. `SHLC – Main Facility` |
 | LocationID | Single line | Yes | Short code, e.g. `LOC-001`. Enforce unique values. |
-| Category | Choice | Yes | SHLC Facility, Hospital/ER, Court/Probation, DHHR Office, Pharmacy, Recovery/Community Meeting, Sober Living, Employer, Other |
+| Category | Choice | Yes | SHLC Facility, Detention/Corrections, Hospital/ER, Court/Probation, Treatment/Recovery, DHHR Office, Pharmacy, Recovery/Community Meeting, Sober Living, Employer, Other |
 | Address | Multiple lines (plain) | Yes | Full street address |
 | City | Single line | Yes | |
 | State | Choice | Yes | WV, OH, PA |
@@ -73,8 +73,10 @@ One row per location pair. Flow 1 checks both directions, so enter each pair **o
 | FromLocation | Lookup → Locations (Title) | Yes | |
 | ToLocation | Lookup → Locations (Title) | Yes | |
 | OneWayMiles | Number (1 decimal) | Yes | Measured once by admin using a map's shortest driving route |
-| VerifiedBy | Person | Yes | |
-| VerifiedDate | Date | Yes | Re-verify annually |
+| Verified | Yes/No | Yes | Default No. **Flow 1 only uses routes where Verified = Yes.** |
+| VerifiedBy | Person | When verified | |
+| VerifiedDate | Date | When verified | Re-verify annually |
+| Notes | Multiple lines | No | |
 
 ---
 

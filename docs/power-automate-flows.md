@@ -24,9 +24,9 @@ Build all flows under a **service account** (e.g. `shlc-automation@…`) with Ed
 
 1. **Get items – Settings** → Initialize variables `varRate`, `varMaxHours`, `varMaxMiles` from rows `MileageRate`, `MaxShiftHours`, `MaxTripMiles`.
 2. **Initialize** `varMiles` (Float, 0), `varSource` (String, `None`), `varFlags` (String, empty).
-3. **Get items – Routes**, Filter Query (both directions):
+3. **Get items – Routes**, Filter Query (both directions, verified routes only):
    ```
-   (FromLocation/Id eq @{StartLocation Id} and ToLocation/Id eq @{EndLocation Id}) or (FromLocation/Id eq @{EndLocation Id} and ToLocation/Id eq @{StartLocation Id})
+   Verified eq 1 and ((FromLocation/Id eq @{StartLocation Id} and ToLocation/Id eq @{EndLocation Id}) or (FromLocation/Id eq @{EndLocation Id} and ToLocation/Id eq @{StartLocation Id}))
    ```
 4. **Condition – Route found** `length(body('Get_items_Routes')?['value']) > 0`
    - **Yes:** `varMiles = OneWayMiles × if(RoundTrip, 2, 1)`; `varSource = Standard Route`
