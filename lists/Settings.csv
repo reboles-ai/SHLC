@@ -1,0 +1,7 @@
+Title,Value,Notes
+MileageRate,0.00,SHLC reimbursement rate per mile - set by Finance
+MaxShiftHours,12,Shifts longer than this are flagged
+MaxTripMiles,100,Trips longer than this are flagged
+PayPeriodStart,2026-11-02,Anchor date for biweekly payroll export
+PayrollEmail,payroll@example.org,Recipient of payroll export - replace
+TrackerAdminEmail,admin@example.org,Reviews location requests - replace

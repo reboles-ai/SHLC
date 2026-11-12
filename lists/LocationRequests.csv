@@ -1,0 +1,2 @@
+Title,Address,City,State,Category,Reason,RequestedBy,Decision
+SAMPLE - delete after import,[Street address],[City],WV,Pharmacy,Frequent prescription pickups,peer@example.org,Pending

@@ -1,0 +1,9 @@
+Title,LocationID,Category,Address,City,State,Active
+SHLC - Main Facility,LOC-001,SHLC Facility,[Street address],[City],WV,Yes
+[Hospital name],LOC-002,Hospital/ER,[Street address],[City],WV,Yes
+[County courthouse],LOC-003,Court/Probation,[Street address],[City],WV,Yes
+[DHHR office],LOC-004,DHHR Office,[Street address],[City],WV,Yes
+[Pharmacy],LOC-005,Pharmacy,[Street address],[City],WV,Yes
+[Recovery meeting site],LOC-006,Recovery/Community Meeting,[Street address],[City],WV,Yes
+[Sober living house],LOC-007,Sober Living,[Street address],[City],WV,Yes
+Other (not listed),LOC-999,Other,Enter odometer and submit a Location Request,N/A,WV,Yes

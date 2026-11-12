@@ -1,0 +1,2 @@
+Title,Peer,WorkDate,ClockIn,ClockOut,ActivityType,StartLocation,EndLocation,RoundTrip,DrovePersonalVehicle,OdometerStart,OdometerEnd,ResidentRef,Purpose,CalculatedMiles,MileageSource,MileageAmount,Flags,Status,Approver,ApprovalDate,ApproverComments,PayPeriod,Exported
+SAMPLE - delete after import,peer@example.org,2026-11-12,2026-11-12 09:00,2026-11-12 11:30,Transport,SHLC - Main Facility,[Hospital name],Yes,Yes,,,R-1234,Transported resident to scheduled appointment.,0,None,0,,Draft,,,,,No

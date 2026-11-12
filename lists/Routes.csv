@@ -1,0 +1,3 @@
+Title,FromLocation,ToLocation,OneWayMiles,VerifiedBy,VerifiedDate
+LOC-001 <-> LOC-002,SHLC - Main Facility,[Hospital name],0.0,admin@example.org,2026-11-12
+LOC-001 <-> LOC-003,SHLC - Main Facility,[County courthouse],0.0,admin@example.org,2026-11-12
