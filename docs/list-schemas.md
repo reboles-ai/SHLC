@@ -27,7 +27,7 @@ One row per setting. Flows read values from here.
 
 | Title | Example Value | Used by |
 |---|---|---|
-| MileageRate | *SHLC rate per mile* | Flow 1 |
+| MileageRate | 0.76 | Flow 1 |
 | MaxShiftHours | 12 | Flow 1 flag |
 | MaxTripMiles | 100 | Flow 1 flag |
 | PayPeriodStart | 2026-11-02 | Flow 3 (anchor date for biweekly cycle) |
